@@ -16,7 +16,7 @@ K-shoot MANIA。譜面の質はピンキリ。
 ・Unwelcome School/ミツキヨ
 
 # 導入方法
-0_「BaTaRbtr/magscores」と表示されている画面(https://github.com/BaTaRbtr/magscores)の「code▼」を押し、「Download ZIP」を押す。お手持ちのソフトでzipを解凍する。
+0_「BaTaRbtr/magscores」と表示されている画面→ https://github.com/BaTaRbtr/magscores の「code▼」を押し、「Download ZIP」を押す。お手持ちのソフトでzipを解凍する。
 1_K-shoot MANIAの「songs」フォルダの中に「Mag's scores」フォルダを入れる。
 <br>
 2_完了。
